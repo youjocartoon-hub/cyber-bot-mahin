@@ -1,4 +1,5 @@
-{
+
+  {
   "Author": "SHAHADAT SAHU",
   "version": "2.0.0",
   "language": "en",
@@ -11,13 +12,13 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "cyber bot mahin",
-  "PREFIX": "+",
+  "BOTNAME": "─꯭─⃝‌‌cyber-bot-mahin",
+  "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
-  "ADMINBOT": [ 
-    2"61557880798209"
-    1"00090512811005"
+  "ADMINBOT": [
+    "100090512811005",
+    "61557880798209",
   ],
   "NDH": ["100001039692046"],
   "adminOnly": false,
@@ -137,3 +138,4 @@
     "god": { "enable": true }
   }
 }
+ 
