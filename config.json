@@ -11,14 +11,12 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
+  "BOTNAME": "cyber bot mahin",
+  "PREFIX": "+",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "100001039692046",
-    "100001039692046"
+    "100090512811005"
   ],
   "NDH": ["100001039692046"],
   "adminOnly": false,
